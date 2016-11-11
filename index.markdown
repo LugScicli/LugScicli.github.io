@@ -12,8 +12,10 @@ Questo sito web è chiaramente un esperimento e al momento non ha alcuna pretesa
 
 ## Perché è nato questo sito/progetto?
 
-Quando ho creato questo progetto avevo in mente sostanzialmente due idee
+Quando ho creato questo progetto avevo in mente sostanzialmente due idee:
+
 * Cercare di creare qualcosa a Scicli
+
 * Imparare a usare nuovi strumenti (in particolare git e jekyll, ma anche javascript, css, etc)
 
 ## Cosa vorresti creare a Scicli?
