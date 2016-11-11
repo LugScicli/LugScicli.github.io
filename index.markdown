@@ -4,11 +4,15 @@ title: Lug Scicli
 ---
 # Versione Alpha
 
-# Faq
+Ciao, sono Francesco e studio ingegneria informatica a Torino. In questa pagina spiego brevemente un'idea che mi è venuta e che credo possa essere interessante da portare avanti.
 
-## &Egrave; un sito ufficiale?
+## &Egrave; un sito lug ufficiale?
 
-Questo sito web è chiaramente un esperimento e al momento non ha alcuna pretesa di ufficialità.
+Questo sito web è chiaramente un esperimento e al momento non ha alcuna pretesa di ufficialità. La speranza è che lo diventi.
+
+## &Egrave; un tuo progetto?
+
+Coerentemente allo spirito opensource vorrei che questo non fosse considerato come un mio progetto ma come qualcosa della comunità e gestito da chi ne fa parte. Tutti devono essere liberi di esprimersi, partecipare e criticare.
 
 ## Perché è nato questo sito/progetto?
 
@@ -28,25 +32,12 @@ Ovviamente non mi rivolgo solo a chi è alle prime armi, ma anche a chi ha conos
 
 Perché dopo alcuni anni di università mi sono reso conto che durante il liceo ho perso un'importante occasione per prendere familiarità con la programmazione e altri aspetti più tecnici dell'informatica. La colpa è stata sicuramente mia, ma rimprovero anche l'assenza di qualcosa di coordinato che in amicizia e senza la formalità dei banchi di scuola mi insegnasse qualcosa di più e mi indirizzasse nell'apprendimento.
 
+## E cosa pensi di fare per portare avanti questo progetto?
 
+Prima di tutto mi piacerebbe che questo sito diventasse qualcosa di collaborativo (è su git) rivolto sia a chi vuole iniziare e ha voglia di imparare, sia a chi è già pratico e vuole contribuire aggiundendo qualcosa di interessante o semplicemente dando consigli a chi è meno esperto.
 
-Come vedete sono il primo a voler imparare qualcosa di nuovo, ad esempio creando questo sito e litigando un po' con nuovi linguaggi.
-E sono sicuro che Scicli è pieno di gente in gamba che 
+Qui trovate il repo git di questo sito [Git Lug Scicli](https://github.com/LugScicli/LugScicli.github.io) 
 
+Poi pensavo di fare un gruppo Telegram che trovate qui: [Telegram](https://telegram.me/joinchat/AIqbCwkzbowb7TkPo9KNOg)
 
-
-## Heading Level 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{% highlight scss %}
-  .header {
-    font-size: 100px;
-  }
-{% endhighlight %}
-
-### Heading Level 3
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Se il progetto riscuote interesse si può anche pensare di organizzare qualche mini-corso (sempre molto amichevole) sulle basi della programmazione o di linux, e tanto altro, ma ogni cosa a suo tempo.
