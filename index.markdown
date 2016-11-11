@@ -25,8 +25,8 @@ Quando ho creato questo progetto avevo in mente sostanzialmente due idee:
 ## Cosa vorresti creare a Scicli?
 
 Quello che vorrei creare è un gruppo libero dove scambiare liberamente conoscenze e opinioni sulla programmazione e su linux. 
-Vorrei creare uno strumento per incoraggiare tutti quei ragazzi affascinati dalla programmazione e dal mondo linux che però non sanno come iniziare o si sono trovati spaesati di fronte al numero di progetti, guide, tutorial, distribuzioni, etc.
-Ovviamente non mi rivolgo solo a chi è alle prime armi, ma anche a chi ha conoscenze ed esperienze che vuole condividere con questa community.
+Vorrei creare uno strumento per incoraggiare tutti quei ragazzi affascinati dalla programmazione e dal mondo linux che però non sanno come iniziare o si sono trovati spaesati di fronte al numero di progetti, guide, tutorial, distribuzioni, etc che si trovano in rete.
+Ovviamente non mi rivolgo solo a chi è alle prime armi, ma anche a chi ha conoscenze ed esperienze che vuole condividere con questa piccola community.
 
 ## Perché credi manchi qualcosa a Scicli?
 
@@ -36,8 +36,8 @@ Perché dopo alcuni anni di università mi sono reso conto che durante il liceo 
 
 Prima di tutto mi piacerebbe che questo sito diventasse qualcosa di collaborativo (è su git) rivolto sia a chi vuole iniziare e ha voglia di imparare, sia a chi è già pratico e vuole contribuire aggiundendo qualcosa di interessante o semplicemente dando consigli a chi è meno esperto.
 
-Qui trovate il repo git di questo sito [Git Lug Scicli](https://github.com/LugScicli/LugScicli.github.io) 
+[Qui](https://github.com/LugScicli/LugScicli.github.io) trovate il repo github di questo sito che è stato generato automaticamente usando il software [Jekyll](https://jekyllrb.com/)
 
-Poi pensavo di fare un gruppo Telegram che trovate qui: [Telegram](https://telegram.me/joinchat/AIqbCwkzbowb7TkPo9KNOg)
+Poi pensavo di fare un gruppo Telegram che trovate [QUI](https://telegram.me/joinchat/AIqbCwkzbowb7TkPo9KNOg)
 
 Se il progetto riscuote interesse si può anche pensare di organizzare qualche mini-corso (sempre molto amichevole) sulle basi della programmazione o di linux, e tanto altro, ma ogni cosa a suo tempo.
