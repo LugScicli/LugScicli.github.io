@@ -1,25 +1,5 @@
 # LugScicli.github.io
 
-# material-jekyll-theme
-[Demo](http://alexcarpenter.github.io/material-jekyll-theme)
+Sito web nato per fare un po' di esperimenti su github, ma con l'idea e la speranza di creare un gruppo locale di appassionati di linux e di programmazione opensource
 
-![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
-
-## Getting started
-1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
-2. `cd material-jekyll-theme`
-3. Configure the `_config.yml` file as needed
-4. `jekyll serve`
-
-## Options
-Customize your options within the `_config.yml` file.
-
-+ Theme
-  - Green
-  - Blue
-  - Orange
-  - Purple
-  - Grey
-+ Fixed Navigation
-  - True
-  - False
+git clone https://github.com/LugScicli/LugScicli.github.io
