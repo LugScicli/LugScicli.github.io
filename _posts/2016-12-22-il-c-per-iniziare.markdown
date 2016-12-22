@@ -2,7 +2,7 @@
 layout: post
 title:  "Il C per iniziare"
 date:   2016-12-22 15:23:21
-categories: tutorials
+categories: news
 ---
 
 Durante le vacanze appena iniziate vorrei dedicare un po' di tempo alla pubblicazione di alcuni post molto semplici, ma altrettanto pratici su come imparare da zero il linguaggio C. Inizieremo proprio dalle basi, da come prepare il nostro spazio di lavoro a come creare un primo progetto. All'inizio il nostro programma sarà molto semplice, ma andando avanti aggiungeremo nuovi blocchi e introdurremo nuovi concetti.
