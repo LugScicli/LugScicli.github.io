@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Il C per iniziare"
 date:   2016-12-22 15:23:21
